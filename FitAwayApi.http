@@ -1,0 +1,6 @@
+@FitAwayApi_HostAddress = http://localhost:5187
+
+GET {{FitAwayApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
