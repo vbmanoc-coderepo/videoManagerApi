@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "userName": "john_doe",
+        "pwd": "password123"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "userName": "jane_smith",
+        "pwd": "mySecureP@ss"
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "userName": "emily_j",
+        "pwd": "emilyPassword!"
+    }
+]

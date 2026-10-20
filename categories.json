@@ -1,0 +1,24 @@
+{
+    "Categories": [
+        {
+            "id": 1,
+            "category": "Yoga"
+        },
+        {
+            "id": 2,
+            "category": "Cardio"
+        },
+        {
+            "id": 3,
+            "category": "Meditation"
+        },
+        {
+            "id": 4,
+            "category": "Boxing"
+        },
+        {
+            "id": 5,
+            "category": "Tai Chi"
+        }
+    ]
+}

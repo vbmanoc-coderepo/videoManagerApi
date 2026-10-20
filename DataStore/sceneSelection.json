@@ -1,0 +1,40 @@
+{
+    "scenes": [
+        {
+            "id": 1,
+            "categoryId": 1,
+            "title": "Buddha",
+            "description": "Great for Meditation & Yoga"
+        },
+        {
+            "id": 2,
+            "categoryId": 1,
+            "title": "Gazebo",
+            "description": "Great meditation spot."
+        },
+        {
+            "id": 3,
+            "categoryId": 1,
+            "title": "Garden",
+            "description": "Good for calisthenics."
+        },
+        {
+            "id": 4,
+            "categoryId": 1,
+            "title": "Garden Gates",
+            "description": "Good for calisthenics."
+        },
+        {
+            "id": 5,
+            "categoryId": 2,
+            "title": "Boxing Ring",
+            "description": "Great for training."
+        },
+        {
+            "id": 6,
+            "categoryId": 2,
+            "title": "Gym",
+            "description": "Great for exercise."
+        }
+    ]
+}
